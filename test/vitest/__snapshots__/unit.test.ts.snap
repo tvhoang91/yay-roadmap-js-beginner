@@ -1,6 +1,6 @@
 // Vitest Snapshot v1
 
-exports[`suite name > snapshot 1`] = `
+exports[`Snapshot > Snapshot Object 1`] = `
 {
   "foo": "bar",
 }
